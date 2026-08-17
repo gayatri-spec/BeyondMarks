@@ -1,6 +1,6 @@
 # BeyondMarks
 
-### Explainable Career Recommendation System
+### Student Career Recommendation System
 
 > **Go Beyond Marks. Discover Your Potential.**
 
