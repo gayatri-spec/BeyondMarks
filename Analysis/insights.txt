@@ -1,0 +1,29 @@
+BEYONDMARKS - INITIAL DATA INSIGHTS
+
+Dataset:
+UCI Student Performance - Mathematics
+
+Students:
+395
+
+Initial Findings:
+
+1. Study time:
+Students with 5-10 hours/week had the highest average G3.
+More study time did not automatically mean higher grades.
+
+2. Absences:
+There was no simple linear relationship between absence level
+and final grade.
+
+3. Previous failures:
+Students with more previous failures had substantially lower
+average final grades.
+
+4. School support:
+Students receiving school support had a lower average G3.
+This should not be interpreted as support causing lower grades.
+
+5. Family support:
+The difference between students with and without family support
+was relatively small.
